@@ -1426,7 +1426,7 @@ const TempleMap: React.FC<TempleMapProps> = ({ language }) => {
           <div className="flex items-center justify-center mb-3">
             <MapPin size={36} className="text-blue-800 mr-3" />
             <h1 className="text-3xl md:text-4xl font-bold text-blue-900">
-              {language.code === 'hi' ? 'तटीय जल टावर मानचित्र' : 'Coastal Water Tower Map'}
+              {language.code === 'hi' ? 'तटीय जल टावर मानचित्र' : 'Somanatha Temple Map'}
             </h1>
             <MapPin size={36} className="text-blue-800 ml-3" />
           </div>

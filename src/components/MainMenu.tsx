@@ -115,7 +115,7 @@ const MainMenu: React.FC<MainMenuProps> = ({ onNavigate, language }) => {
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-6">
             <Bell size={50} className="text-red-800 mr-4 animate-pulse" />
-            <h1 className="text-5xl font-bold text-red-900">Divya Darshan</h1>
+            <h1 className="text-5xl font-bold text-red-900">S H R E E</h1>
             <Bell size={50} className="text-red-800 ml-4 animate-pulse" />
           </div>
           <div className="w-32 h-1 bg-gradient-to-r from-yellow-600 to-red-800 mx-auto mb-4"></div>
